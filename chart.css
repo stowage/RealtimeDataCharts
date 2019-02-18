@@ -1,0 +1,18 @@
+#chart {
+	display: inline-block;
+	background: #fff;
+	color: #333;
+	height: 100%;
+	width: 100%;
+}  
+
+#c-hartType {
+	position: absolute;
+	left: 20;
+	top: 50;
+	opacity: 0.75;
+}
+
+#footer a {
+	color: #eee;
+}
